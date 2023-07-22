@@ -7,7 +7,7 @@ import seaborn as sn
 
 # Read Weather Data for Mumbai (2 years)
 # Path in my device
-weather_data = pd.read_csv(r'C:\Users\ahmad\Downloads\mumbai.csv')
+weather_data = pd.read_csv(r'^NSEI-2.csv')
 
 # Read Stock Market Data (NSE Index - 5 years)
 # Path in my device
